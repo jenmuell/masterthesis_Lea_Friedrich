@@ -1,4 +1,4 @@
-# Doktorarbeit [Lea Friedrich](Lea.Friedrich@med.uni-tuebingen.de)
+# Masterthesis [Lea Friedrich](Lea.Friedrich@med.uni-tuebingen.de)
 
 ## Dieses Github Repository enthält alle zusätzlichen Abbildungen und Rohdaten für die folgenden Methoden
 **1. Tn-Sequencing: Raw data and interactive volcano plots from the [bacteria_tradis](https://github.com/sanger-pathogens/Bio-Tradis) analysis adapted for Tn-sequencing data** <br/>
